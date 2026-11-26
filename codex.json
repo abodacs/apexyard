@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
   "label": "conformance: codex",
-  "message": "red (unknown)",
+  "message": "red (failure)",
   "color": "red"
 }
